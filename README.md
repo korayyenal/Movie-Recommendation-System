@@ -1,5 +1,7 @@
 # A Simple Movie Recommendation Algorithm using TF-IDF in Python
 
+The dataset can be accessed by this link: shorturl.at/DEL28
+
 In this project, I create a movie recommendation system using Jupyter, Python, and Pandas. I first build a search engine based on cosine similarity to find a specific movie title in the data. Then, I create a recommendation engine to recommend similar movies based on the interests of similar users.
 
 TF-IDF (Term Frequency - Inverse Document Frequency) is a simple similarity-based algorithm for content-based recommendations with text datasets. It works in the CPU environment.
