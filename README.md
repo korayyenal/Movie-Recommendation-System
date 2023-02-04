@@ -2,7 +2,9 @@
 
 The dataset can be accessed by this link: https://grouplens.org/datasets/movielens/25m/
 
-In this project, I create a movie recommendation system using Jupyter, Python, and Pandas. I first build a search engine based on cosine similarity to find a specific movie title in the data. Then, I create a recommendation engine to recommend similar movies based on the interests of similar users.
+## Problem Description
+
+In this project, I create a movie recommendation system using Jupyter, Python, and Pandas. I first build a search engine based on cosine similarity to find a specific movie title in the data. Then, I create a recommendation engine based on the interests of similar users to recommend similar movies.
 
 TF-IDF (Term Frequency - Inverse Document Frequency) is a simple similarity-based algorithm for content-based recommendations with text datasets. It works in the CPU environment.
 
