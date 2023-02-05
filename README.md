@@ -31,3 +31,5 @@ Then, for each movie in the “similar user recommendations” list, I find the 
 Finally, I compute a recommendation score for each movie, which takes the ratio between similar users percentage and all users percentage. I rank the results and I recommend the movie with the highest recommendation score.
 
 ## Results
+
+<img src="figures/Result.png" width=70% height=70%>
