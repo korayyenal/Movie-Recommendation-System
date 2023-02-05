@@ -33,3 +33,5 @@ Finally, I compute a recommendation score for each movie, which takes the ratio 
 ## Results
 
 <img src="figures/Result.png" width=70% height=70%>
+
+<img src="figures/Result_2.png" width=70% height=70%>
