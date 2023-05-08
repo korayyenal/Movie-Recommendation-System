@@ -34,9 +34,9 @@ Finally, I compute a recommendation score for each movie, which takes the ratio 
 
 <img src="figures/Result.png" width=70% height=70%>
 
-Searching for *The Avengers (2012)*, which is a Marvel movie, yields other Marvel movies.
+* Searching for *The Avengers (2012)*, which is a Marvel movie, yields other Marvel movies.
 
 <img src="figures/Result_2.png" width=70% height=70%>
 
-Searching for *Finding Nemo (2003)*, which is an animation movie, results in other animation movies.
+* Searching for *Finding Nemo (2003)*, which is an animation movie, results in other animation movies.
 
